@@ -1,4 +1,4 @@
-# Cloud Actions
+# Cloud Infrastructure Actions
 
 ## Topics
 
@@ -13,8 +13,6 @@
    * [GCP](https://gist.github.com/realBjornRoden/42924a06d352d438c58eb39d12923426#file-cloudactions-gcp-solo-md)
 
 ***
-
-* Using ML and DL NoOps
   
 * Create n-tier VPC VM based IaaS design for HTTP/APP/DB
 
