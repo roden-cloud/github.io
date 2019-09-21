@@ -1,5 +1,6 @@
 # Cloud Infrastructure (IaaS) Actions
-<p><i>work in progress</i></p>
+<br><i>work in progress</i>
+
 ## Topics
 
 * Login access with SSH (CLI from scratch)
