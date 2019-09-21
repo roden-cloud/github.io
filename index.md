@@ -1,4 +1,4 @@
-# Cloud Infrastructure Actions
+# Cloud Infrastructure (IaaS) Actions
 
 ## Topics
 
