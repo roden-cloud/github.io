@@ -26,4 +26,4 @@
 
 ***
 
-* Blueprint System Manifests
+* System Manifest Blueprints
